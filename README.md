@@ -55,4 +55,4 @@ Clientes, catálogo agregado, carrito y pedidos se mantienen en memoria durante 
 
 ## Validación
 
-Los últimos XML de Gradle registran **57 pruebas unitarias aprobadas** y **7 instrumentadas aprobadas** en Pixel 6 con API 35. El informe distingue esos resultados de la ejecución directa de JUnit y de las observaciones manuales. Quedan pendientes las comprobaciones en API 23, dispositivos físicos y la variante `release`. [Informe de validación](docs/validacion-semana-5.md) · [Índice de evidencias](docs/evidencias/semana-5/README.md).
+Los últimos XML de Gradle registran **57 pruebas unitarias aprobadas** y **7 instrumentadas aprobadas** en Pixel 6 con API 35. El informe distingue esos resultados de la ejecución directa de JUnit y de las observaciones manuales. Quedan pendientes las comprobaciones en API 23, dispositivos físicos y la variante `release`. [Informe de validación](docs/validacion-semana-5.md) · [Índice de evidencias con cinco capturas](docs/evidencias/semana-5/README.md).

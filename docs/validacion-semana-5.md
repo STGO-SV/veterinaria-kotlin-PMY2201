@@ -42,13 +42,13 @@ El paso 7 de las instrucciones Forma B y el criterio «Entrega» de la pauta req
 
 | Criterio | Evidencia disponible |
 | --- | --- |
-| Modularización y Gradle | Tres módulos, dependencias declaradas y resultados por módulo. Captura de Android Studio pendiente. |
+| Modularización y Gradle | Tres módulos, dependencias declaradas y captura de Android Studio con el bloque de dependencias de `app`. |
 | Interfaz y conexión con Kotlin | Actividad y ViewModel integrados. Siete casos instrumentados completados en Pixel 6 con API 35. |
-| Resumen y actualización dinámica | Casos instrumentados de cliente y compra, observación del historial y capturas pendientes. |
-| Entrega | Índice preparado. Capturas actuales pendientes de incorporación. |
+| Resumen y actualización dinámica | Casos instrumentados de cliente y compra, resumen con un cliente y dos pedidos, y detalle expandido de `PED-002`. |
+| Entrega | Cinco capturas incorporadas. El índice enlaza la estructura modular, el resumen, el pedido expandido, el carrito y el diálogo de existencias. |
 
-[Índice y plan de captura](evidencias/semana-5/README.md).
+[Índice de capturas](evidencias/semana-5/README.md).
 
 ## Alcance de la verificación
 
-La sesión de preparación no pudo iniciar el servidor de ADB. Ese bloqueo impidió obtener capturas nuevas y es posterior a la ejecución local acreditada por el XML. Quedan sin verificar en ejecución API 23, la variante `release` y dispositivos físicos.
+Las capturas documentan la demostración local y complementan los XML de pruebas. Quedan sin verificar en ejecución API 23, la variante `release` y dispositivos físicos.
